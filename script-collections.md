@@ -1,3 +1,5 @@
+![ninjajenkins.png](ninjajenkins.png)
+
 ## Jenkins Groovy Script Collections
   
 * [dnozay-gist](https://gist.github.com/dnozay/e7afcf7a7dd8f73a4e05)  
