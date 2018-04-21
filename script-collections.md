@@ -1,4 +1,4 @@
-# Ninjajenkins  
+# ninjajenkins  
 
 ![ninjajenkins.png](ninjajenkins.png)
 
