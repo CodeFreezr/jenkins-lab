@@ -1,8 +1,8 @@
-# ninjajenkins  
+# ninjajenkins Jenkins Groovy Script Collections 
 
 ![ninjajenkins.png](ninjajenkins.png)
 
-## Jenkins Groovy Script Collections
+## Script Collections
   
 * [dnozay-gist](https://gist.github.com/dnozay/e7afcf7a7dd8f73a4e05)  
 * [jenkinsci-git](https://github.com/jenkinsci/jenkins-scripts)  
