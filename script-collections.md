@@ -7,7 +7,8 @@
 * [samrocketman-bootstraped](https://github.com/samrocketman/jenkins-bootstrap-shared)  
 * [Some Useful Scripts](https://pghalliday.com/jenkins/groovy/sonar/chef/configuration/management/2014/09/21/some-useful-jenkins-groovy-scripts.html)
 * [autojenkins](https://github.com/txels/autojenkins)
-* []()
+* [groovy init Scripts](https://github.com/hayderimran7/useful-jenkins-groovy-init-scripts)
+* [rackspace jenkins scripts](https://github.com/rcbops/jenkins-build)
 
 
 ## Additional Resources  
