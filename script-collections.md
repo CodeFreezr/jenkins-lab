@@ -1,4 +1,4 @@
-# ninjajenkins Jenkins Groovy Script Collections 
+# ninjajenkins - Groovy Script Collections 
 
 ![ninjajenkins.png](ninjajenkins.png)
 
