@@ -9,5 +9,6 @@ Here a collection of Articles, Plugins & Howto's;
 * [Good Medium Reading 9/16](https://medium.com/@teeks99/continuous-integration-with-jenkins-and-gitlab-fa770c62e88a) 
 * [Bitname How-to-do](https://docs.bitnami.com/aws/how-to/create-ci-pipeline/) 
 
-
+Even the scenarios are and use cases for jenkins are nearly endless, here one of the more ore less "enterprise" standard setup:
+![Enterprise Setup]()
 
