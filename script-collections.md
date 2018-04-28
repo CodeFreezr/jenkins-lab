@@ -22,7 +22,8 @@
 * [funkwerk handy groovy workflow-libs scripts](https://github.com/funkwerk/jenkins-workflow) 
 
 ## Additional Resources  
-* [Jenkins Script Console](https://wiki.jenkins.io/display/JENKINS/Jenkins+Script+Console)  
+* [Jenkins Script Console](https://wiki.jenkins.io/display/JENKINS/Jenkins+Script+Console) 
+* [Top 10 Best Practices by CloudBees](https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin)
 * [Groovy Universe](https://slides.com/detlefburkhardt/groovy)  
 * [Extending Jenkins](https://www.packtpub.com/mapt/book/web_development/9781785284243)
 * [Jenkins Script Console Tutorial](https://gist.github.com/initcron/cb09efa258312c24f84338af9f767a98)
