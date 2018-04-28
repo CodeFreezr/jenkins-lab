@@ -1,6 +1,6 @@
 # ninjajenkins - Groovy Script Collections 
 
-![ninjajenkins.png](ninjajenkins.png)
+![ninjajenkins.png](pics/ninjajenkins.png)
 
 ## Scripts Collections
   
