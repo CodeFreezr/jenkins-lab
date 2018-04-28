@@ -14,17 +14,17 @@
 * [groovy init Scripts](https://github.com/hayderimran7/useful-jenkins-groovy-init-scripts)
 * [rackspace jenkins scripts](https://github.com/rcbops/jenkins-build)
 
-## Pipeline Examples & Libraries
+## Pipeline Examples, Bep's & Libraries
 * [Official Jenkins Pipeline Examples](https://jenkins.io/doc/pipeline/examples/) 
-* [Best Practices for Pipelines](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md)
 * [Docker Script Library](https://jenkins.io/doc/pipeline/examples/) 
 * [fabric8 pipelina library](https://github.com/fabric8io/fabric8-pipeline-library) 
 * [fabric8 jenkinsfile library](https://github.com/fabric8io/fabric8-jenkinsfile-library) 
 * [funkwerk handy groovy workflow-libs scripts](https://github.com/funkwerk/jenkins-workflow) 
+* [Best Practices for Pipelines](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md)
+* [Top 10 Best Practices by CloudBees](https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin)
 
 ## Additional Resources  
 * [Jenkins Script Console](https://wiki.jenkins.io/display/JENKINS/Jenkins+Script+Console) 
-* [Top 10 Best Practices by CloudBees](https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin)
 * [Groovy Universe](https://slides.com/detlefburkhardt/groovy)  
 * [Extending Jenkins](https://www.packtpub.com/mapt/book/web_development/9781785284243)
 * [Jenkins Script Console Tutorial](https://gist.github.com/initcron/cb09efa258312c24f84338af9f767a98)
