@@ -16,6 +16,7 @@
 
 ## Pipeline Examples & Libraries
 * [Official Jenkins Pipeline Examples](https://jenkins.io/doc/pipeline/examples/) 
+* [Best Practices for Pipelines](https://github.com/jenkinsci/pipeline-examples/blob/master/docs/BEST_PRACTICES.md)
 * [Docker Script Library](https://jenkins.io/doc/pipeline/examples/) 
 * [fabric8 pipelina library](https://github.com/fabric8io/fabric8-pipeline-library) 
 * [fabric8 jenkinsfile library](https://github.com/fabric8io/fabric8-jenkinsfile-library) 
